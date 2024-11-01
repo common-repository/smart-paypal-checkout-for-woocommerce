@@ -1,0 +1,1430 @@
+# Copyright (C) 2022 Smart PayPal Checkout For WooCommerce
+# This file is distributed under the same license as the Smart PayPal Checkout For WooCommerce package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart PayPal Checkout For WooCommerce 2.0.22\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/smart-paypal-"
+"checkout-for-woocommerce\n"
+"POT-Creation-Date: 2022-03-15 16:57+0530\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.2\n"
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:25
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:38
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:39
+msgid "PayPal Checkout"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:26
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:60
+msgid "Accept PayPal, PayPal Credit and alternative payment types."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:50
+msgid ""
+"PayPal Checkout with Smart Payment Buttons gives your buyers a simplified "
+"and secure checkout experience."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:112
+msgid "Card code"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:117
+msgid "Card number"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:121
+msgid "Expiry (MM/YY)"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:191
+msgid "Gateway disabled"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:191
+msgid "PayPal does not support your store currency."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:265
+msgid "Refund failed."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:284
+msgid "This represents the fee PayPal collects for the transaction."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:285
+msgid "PayPal Fee:"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:310
+msgid "Disconnect"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:327
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:98
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:113
+msgid "Connect to PayPal"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:327
+msgid "Connect to PayPal Sandbox"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:354
+msgid "We could not properly connect to PayPal"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:356
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:371
+msgid "Toggle to manual credential input"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:370
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:234
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:251
+msgid "OR"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:454
+msgid "Please verify the PayPal account to receive the payments."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:466
+msgid "PayPal onboarding process successfully completed."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-gateway.php:487
+msgid ""
+"PayPal Complete Payments is almost ready. To get started, <a href=\"%1$s"
+"\">connect your account</a>."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-product.php:74
+msgid ""
+"Please choose the quantity of items you wish to add to your cart&hellip;"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-product.php:81
+msgid "Please choose a product to add to your cart&hellip;"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-product.php:127
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-product.php:143
+msgid "Invalid value posted for %s"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-product.php:150
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:99
+msgid "Continue to payment"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:480
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1155
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:634
+msgid "Card Details"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:491
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1166
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:645
+msgid "Address Verification Result"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:500
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1175
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:654
+msgid "Card Security Code Result"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:517
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1196
+msgid "Payment via %s : %s."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:523
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:575
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1192
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:674
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:688
+msgid "%s Transaction ID: %s"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:578
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1530
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:691
+msgid ""
+"Payment authorized. Change payment status to processing or complete to "
+"capture funds."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:928
+msgid "Refunded %1$s - Refund ID: %2$s"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:934
+msgid "Payment via %s Pending. Pending reason: %s."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:936
+msgid "Refund Amount %1$s - Refund ID: %2$s"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1216
+msgid "Smart PayPal Checkout For WooCommerce Version: %s"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1217
+msgid "WooCommerce Version: %s"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-request.php:1533
+msgid "Payment pending (%s)."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-seller-onboarding.php:94
+msgid "Return to your shop."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:59
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:457
+msgid "PayPal"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:76
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:173
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:276
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:379
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:482
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:618
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:703
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:790
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:876
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:962
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1048
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1101
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:78
+msgid "Enable PayPal Checkout"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:79
+msgid ""
+"Check this box to enable the payment gateway. Leave unchecked to disable it."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:84
+msgid "Account Settings"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:90
+msgid "PayPal sandbox"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:92
+msgid "Enable PayPal sandbox"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:94
+msgid ""
+"Check this box to enable test mode so that all transactions will hit "
+"PayPal’s sandbox server instead of the live server. This should only be used "
+"during development as no real transactions will occur when this is enabled."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:102
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:117
+msgid "Setup or link an existing PayPal account."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:106
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:121
+msgid "Disconnect from PayPal"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:109
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:124
+msgid "Click to reset current credentials and use another account."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:128
+msgid "PayPal Client ID"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:130
+msgid "Enter your PayPal Client ID."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:135
+msgid "PayPal Secret"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:137
+msgid "Enter your PayPal Secret."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:142
+msgid "Sandbox Client ID"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:144
+msgid "Enter your PayPal Sandbox Client ID."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:149
+msgid "Sandbox Secret"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:151
+msgid "Enter your PayPal Sandbox Secret."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:159
+msgid "Smart Payment Buttons Settings"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:166
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:807
+msgid "Product Page"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:168
+msgid ""
+"Enable the Product specific button settings, and the options set will be "
+"applied to the PayPal Smart buttons on your Product pages."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:176
+msgid "Enable PayPal Smart Button on the Product Pages."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:182
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:285
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:388
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:491
+msgid "Hide Funding Method(s)"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:185
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:288
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:391
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:494
+msgid ""
+"Funding methods selected here will be hidden from buyers during checkout."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:189
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:292
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:395
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:498
+msgid "Credit or Debit Card"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:190
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:293
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:396
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:499
+msgid "PayPal Credit"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:191
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:294
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:397
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:500
+msgid "Bancontact"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:192
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:295
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:398
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:501
+msgid "BLIK"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:193
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:296
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:399
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:502
+msgid "eps"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:194
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:297
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:400
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:503
+msgid "giropay"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:195
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:298
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:401
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:504
+msgid "iDEAL"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:196
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:299
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:402
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:505
+msgid "Mercado Pago"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:197
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:300
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:403
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:506
+msgid "MyBank"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:198
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:301
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:404
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:507
+msgid "Przelewy24"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:199
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:302
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:405
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:508
+msgid "SEPA-Lastschrift"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:200
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:303
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:406
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:509
+msgid "Sofort"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:201
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:304
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:407
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:510
+msgid "Venmo"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:205
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:308
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:411
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:514
+msgid "Button Layout"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:208
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:311
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:414
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:517
+msgid ""
+"Select Vertical for stacked buttons, and Horizontal for side-by-side buttons."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:212
+msgid "Horizontal (Recommended)"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:213
+msgid "Vertical"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:217
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:320
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:423
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:526
+msgid "Button Color"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:220
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:323
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:426
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:529
+msgid "Set the color you would like to use for the PayPal button."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:224
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:327
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:430
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:533
+msgid "Gold (Recommended)"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:225
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:328
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:431
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:534
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:691
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:778
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:864
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:950
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1036
+msgid "Blue"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:226
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:329
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:432
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:535
+msgid "Silver"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:227
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:330
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:433
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:536
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:682
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:691
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:769
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:778
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:855
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:864
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:941
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:950
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1027
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1036
+msgid "White"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:228
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:331
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:434
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:537
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:682
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:691
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:769
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:778
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:855
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:864
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:941
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:950
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1027
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1036
+msgid "Black"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:232
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:335
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:438
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:541
+msgid "Button Shape"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:235
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:338
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:441
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:544
+msgid "Set the shape you would like to use for the buttons."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:239
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:342
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:445
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:548
+msgid "Rect (Recommended)"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:240
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:343
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:446
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:549
+msgid "Pill"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:244
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:347
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:450
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:553
+msgid "Button Label"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:247
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:350
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:453
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:556
+msgid "Set the label type you would like to use for the PayPal button."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:251
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:354
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:560
+msgid "PayPal (Recommended)"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:252
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:355
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:458
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:561
+msgid "Checkout"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:253
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:356
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:459
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:562
+msgid "Buy Now"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:254
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:357
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:460
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:563
+msgid "Pay"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:258
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:361
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:464
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:567
+msgid "Tagline"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:262
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:365
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:468
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:571
+msgid "Enable tagline"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:264
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:367
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:470
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:573
+msgid ""
+"Add the tagline. This line will only show up, if you select a horizontal "
+"layout."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:269
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:893
+msgid "Cart Page"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:271
+msgid ""
+"Enable the Cart specific button settings, and the options set will be "
+"applied to the PayPal buttons on your Cart page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:279
+msgid "Enable PayPal Smart Button on the Cart page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:282
+msgid ""
+"Optionally override global button settings above and configure buttons "
+"specific to Cart page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:315
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:418
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:521
+msgid "Vertical (Recommended)"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:316
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:419
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:522
+msgid "Horizontal"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:372
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:374
+msgid ""
+"Enable the checkout specific button settings, and the options set will be "
+"applied to the PayPal buttons on your checkout page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:382
+msgid "Enable PayPal Smart Button on the Checkout page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:385
+msgid ""
+"Optionally override global button settings above and configure buttons "
+"specific to checkout page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:475
+msgid "Mini Cart Page"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:477
+msgid ""
+"Enable the Mini Cart specific button settings, and the options set will be "
+"applied to the PayPal buttons on your Mini Cart page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:485
+msgid "Enable PayPal Smart Button on the Mini Cart page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:488
+msgid ""
+"Optionally override global button settings above and configure buttons "
+"specific to Mini Cart page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:581
+msgid "Order Review Page options"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:587
+msgid "Page Title"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:589
+msgid ""
+"Set the Page Title value you would like used on the PayPal Checkout order "
+"review page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:590
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:604
+msgid "Confirm your PayPal order"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:594
+msgid "Description"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:597
+msgid ""
+"Set the Description you would like used on the PayPal Checkout order review "
+"page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:598
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:63
+msgid ""
+"<strong>You're almost done!</strong><br>Review your information before you "
+"place your order."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:601
+msgid "Button Text"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:603
+msgid ""
+"Set the Button Text you would like used on the PayPal Checkout order review "
+"page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:611
+msgid "Pay Later Messaging Settings"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:619
+msgid "Enable Pay Later Messaging"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:625
+msgid "Page Type"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:630
+msgid "Home"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:630
+msgid "Category"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:630
+msgid "Product"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:630
+msgid "Cart"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:630
+msgid "Payment"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:634
+msgid "Home Page"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:635
+msgid ""
+"Customize the appearance of <a target=\"_blank\" href=\"https://www.paypal."
+"com/us/business/buy-now-pay-later\">Pay Later Messaging</a> on the Home page "
+"to promote special financing offers which help increase sales."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:640
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:727
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:813
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:899
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:985
+msgid "Layout Type"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:646
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:733
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:819
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:905
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:991
+msgid "Text Layout"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:646
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:733
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:819
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:905
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:991
+msgid "Flex Layout"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:649
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:736
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:822
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:908
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:994
+msgid "Logo Type"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:655
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:742
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:828
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:914
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1000
+msgid "Primary"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:655
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:742
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:828
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:914
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1000
+msgid "Alternative"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:655
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:742
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:828
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:914
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1000
+msgid "Inline"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:655
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:742
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:828
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:914
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1000
+msgid "None"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:658
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:745
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:831
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:917
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1003
+msgid "Logo Position"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:664
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:751
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:837
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:923
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1009
+msgid "Left"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:664
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:751
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:837
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:923
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1009
+msgid "Right"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:664
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:751
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:837
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:923
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1009
+msgid "Top"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:667
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:754
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:840
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:926
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1012
+msgid "Text Size"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:673
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:760
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:846
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:932
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1018
+msgid "10 px"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:673
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:760
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:846
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:932
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1018
+msgid "11 px"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:673
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:760
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:846
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:932
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1018
+msgid "12 px"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:673
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:760
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:846
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:932
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1018
+msgid "13 px"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:673
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:760
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:846
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:932
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1018
+msgid "14 px"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:673
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:760
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:846
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:932
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1018
+msgid "15 px"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:673
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:760
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:846
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:932
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1018
+msgid "16 px"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:676
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:763
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:849
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:935
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1021
+msgid "Text Color"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:682
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:691
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:769
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:778
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:855
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:864
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:941
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:950
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1027
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1036
+msgid "Monochrome"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:682
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:691
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:769
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:778
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:855
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:864
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:941
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:950
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1027
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1036
+msgid "Grayscale"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:685
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:772
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:858
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:944
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1030
+msgid "Color"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:691
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:778
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:864
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:950
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1036
+msgid "White (No Border)"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:691
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:778
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:864
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:950
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1036
+msgid "Gray"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:694
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:781
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:867
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:953
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1039
+msgid "Ratio"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:700
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:787
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:873
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:959
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1045
+msgid "Flexes between 120px and 300px wide"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:700
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:787
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:873
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:959
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1045
+msgid "160px wide"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:700
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:787
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:873
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:959
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1045
+msgid "Flexes between 250px and 768px wide"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:700
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:787
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:873
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:959
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1045
+msgid "Flexes between 250px and 1169px wide"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:704
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on Home "
+"page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:711
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:798
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:884
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:970
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1056
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:720
+msgid "Category Page"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:722
+msgid ""
+"Customize the appearance of <a target=\"_blank\" href=\"https://www.paypal."
+"com/us/business/buy-now-pay-later\">Pay Later Messaging</a> on the Category "
+"page to promote special financing offers which help increase sales."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:791
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on "
+"category page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:808
+msgid ""
+"Customize the appearance of <a target=\"_blank\" href=\"https://www.paypal."
+"com/us/business/buy-now-pay-later\">Pay Later Messaging</a> on the Product "
+"page to promote special financing offers which help increase sales."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:877
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on "
+"product page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:894
+msgid ""
+"Customize the appearance of <a target=\"_blank\" href=\"https://www.paypal."
+"com/us/business/buy-now-pay-later\">Pay Later Messaging</a> on the Cart page "
+"to promote special financing offers which help increase sales."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:963
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on cart "
+"page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:979
+msgid "Payment Page"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:980
+msgid ""
+"Customize the appearance of <a target=\"_blank\" href=\"https://www.paypal."
+"com/us/business/buy-now-pay-later\">Pay Later Messaging</a> on the Payment "
+"page to promote special financing offers which help increase sales."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1049
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on "
+"payment page."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1067
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1073
+msgid "Brand Name"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1075
+msgid ""
+"This controls what users see as the brand / company name on PayPal review "
+"pages."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1080
+msgid "Landing Page"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1083
+msgid ""
+"The type of landing page to show on the PayPal site for customer checkout. "
+"PayPal Account Optional must be checked for this option to be used."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1084
+msgid "Login"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1085
+msgid "Billing"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1086
+msgid "No Preference"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1091
+msgid "Instant Payments "
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1095
+msgid ""
+"If you enable this setting, PayPal will be instructed not to allow the buyer "
+"to use funding sources that take additional time to complete (for example, "
+"eChecks). Instead, the buyer will be required to use an instant funding "
+"source, such as an instant transfer, a credit/debit card, or PayPal Credit."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1098
+msgid "Require Instant Payment"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1103
+msgid "Enable advanced credit and debit card payments"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1105
+msgid ""
+"Currently PayPal support Unbranded payments in US, AU, UK, FR, IT and ES "
+"only. <br> <br>Advanced credit and debit cards requires that your business "
+"account be evaluated and approved by PayPal. <br><a target=\"_blank\" href="
+"\"https://www.sandbox.paypal.com/bizsignup/entry/product/ppcp\">Enable for "
+"Sandbox Account</a> <span> | </span> <a target=\"_blank\" href=\"https://www."
+"paypal.com/bizsignup/entry/product/ppcp\">Enable for Live Account</a><br>"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1108
+msgid "Contingency for 3D Secure"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1112
+msgid "3D Secure when required"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1113
+msgid "Always trigger 3D Secure"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1117
+msgid ""
+"3D Secure benefits cardholders and merchants by providing an additional "
+"layer of verification using Verified by Visa, MasterCard SecureCode and "
+"American Express SafeKey."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1120
+msgid "Payment action"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1123
+msgid ""
+"Choose whether you wish to capture funds immediately or authorize payment "
+"only."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1127
+msgid "Capture"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1128
+msgid "Authorize"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1132
+msgid "Invoice prefix"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1134
+msgid ""
+"Please enter a prefix for your invoice numbers. If you use your PayPal "
+"account for multiple stores ensure this prefix is unique as PayPal will not "
+"allow orders with the same invoice number."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1139
+msgid "Enable/Disable coupons"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1141
+msgid "Enable the use of coupon codes"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1142
+msgid "Coupons can be applied from the order review."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1146
+msgid "Credit Card Statement Name"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1148
+msgid ""
+"The value entered here will be displayed on the buyer's credit card "
+"statement."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1154
+msgid "Debug log"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1156
+msgid "Enable logging"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce-settings.php:1158
+msgid ""
+"Log PayPal events, such as Webhook, Payment, Refund inside %s Note: this may "
+"log personal information. We recommend using this for debugging purposes "
+"only and deleting the logs when finished."
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce.php:78
+msgid "Configure"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce.php:79
+msgid "Support"
+msgstr ""
+
+#: includes/class-smart-paypal-checkout-for-woocommerce.php:80
+msgid "Write a Review"
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:266
+msgid ""
+"BUYER_COMPLAINT: The payer initiated a dispute for this captured payment "
+"with PayPal."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:269
+msgid ""
+"CHARGEBACK: The captured funds were reversed in response to the payer "
+"disputing this captured payment with the issuer of the financial instrument "
+"used to pay for this captured payment."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:272
+msgid "ECHECK: The payer paid by an eCheck that has not yet cleared."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:275
+msgid ""
+"INTERNATIONAL_WITHDRAWAL: Visit your online account. In your **Account "
+"Overview**, accept and deny this payment."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:278
+msgid ""
+"No additional specific reason can be provided. For more information about "
+"this captured payment, visit your account online or contact PayPal."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:281
+msgid "PENDING_REVIEW: The captured payment is pending manual review."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:284
+msgid ""
+"RECEIVING_PREFERENCE_MANDATES_MANUAL_ACTION: The payee has not yet set up "
+"appropriate receiving preferences for their account. For more information "
+"about how to accept or deny this payment, visit your account online. This "
+"reason is typically offered in scenarios such as when the currency of the "
+"captured payment is different from the primary holding currency of the payee."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:287
+msgid "REFUNDED: The captured funds were refunded."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:290
+msgid ""
+"TRANSACTION_APPROVED_AWAITING_FUNDING: The payer must send the funds for "
+"this captured payment. This code generally appears for manual EFTs."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:293
+msgid "UNILATERAL: The payee does not have a PayPal account."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:296
+msgid "VERIFICATION_REQUIRED: The payee's PayPal account is not verified."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:300
+msgid "No pending reason provided."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:304
+msgid "Payment via %s Pending. PayPal Pending reason: %s."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:307
+msgid "Payment via %s declined. PayPal declined reason: %s."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:312
+msgid "Payment via %s partially refunded. PayPal reason: %s."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:315
+msgid "Payment via %s refunded. PayPal reason: %s."
+msgstr ""
+
+#: includes/smart-paypal-checkout-for-woocommerce-function.php:317
+msgid "Payment via %s failed. PayPal reason: %s."
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:349
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:349
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:351
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:367
+msgid "Edit"
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:351
+msgid "Billing details"
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:367
+msgid "Shipping details"
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:443
+msgid "Create an account?"
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:450
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:669
+msgid "Payment via %s : %s ."
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:682
+msgid "Payment via %s Pending. PayPal reason: %s."
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:931
+msgid "Capture Charge"
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:1057
+msgid "Cancel order"
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:1102
+msgid ""
+"We cannot process your order with the payment information that you provided. "
+"Please use an alternate payment method."
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:1105
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: public/class-smart-paypal-checkout-for-woocommerce-button-manager.php:1140
+msgid "3D Secure response"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Smart PayPal Checkout For WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid ""
+"https://github.com/wp-mbjtechnolabs/smart-paypal-checkout-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"PayPal Checkout with Smart Payment Buttons gives your buyers a simplified "
+"and secure checkout experience. Develop by Official PayPal Partner."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mbjtech"
+msgstr ""
